@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Azerbaijan" tvg-id="(no tvg-id)" tvg-name="ARB 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" ,ARB 24 HD
-http://op9fqvuz.akciatv.ru/iptv/LC8RBR34PMDLY8/2188/index.m3u8
+http://4197b1f4.kazaktelekom.org/iptv/FSA7DBKQVFKXM8/2188/index.m3u8
 #EXTINF:0 group-title="Azerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png/1200px-ARB_G%C3%BCn%C9%99%C5%9F.png" ,ARB Günəş HD
 http://4197b1f4.kazaktelekom.org/iptv/FSA7DBKQVFKXM8/2189/index.m3u8
 #EXTINF:0 group-title="Azerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/8/86/ARB.png/1024px-ARB.png" ,ARB TV HD
