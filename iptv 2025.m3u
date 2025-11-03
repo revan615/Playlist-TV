@@ -75,7 +75,7 @@ http://4197b1f4.kazaktelekom.org/iptv/FSA7DBKQVFKXM8/2293/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_1.png" ,bein Sports 1 FR
 http://op9fqvuz.akciatv.ru/iptv/LC8RBR34PMDLY8/2499/index.m3u8
-EXTINF:-1 group-title="Trukey" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" , bein Sports 1 TR
+#EXTINF:-1 group-title="Trukey" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" , bein Sports 1 TR
 http://op9fqvuz.akciatv.ru/iptv/LC8RBR34PMDLY8/6817/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Arena_Sport_TV_1.png" ,Arena Sport 1
 http://op9fqvuz.akciatv.ru/iptv/LC8RBR34PMDLY8/2550/index.m3u8
