@@ -21,7 +21,7 @@ http://4197b1f4.kazaktelekom.org/iptv/FSA7DBKQVFKXM8/2193/index.m3u8
 http://4197b1f4.kazaktelekom.org/iptv/FSA7DBKQVFKXM8/2192/index.m3u8
 #EXTINF:0 group-title="Azerbaijan" tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/97/APA_TV_loqo.png" ,APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 group-title="Azerbaijan" tvg-id="(no tvg-id)" tvg-name="EL TV" tvg-logo="https://en.wikipedia.org/wiki/EL_TV#/media/File%3AEL_TV_Azerbaijan_Logo.png" ,EL TV
+#EXTINF:-1 group-title="Azerbaijan" tvg-id="(no tvg-id)" tvg-name="EL TV" tvg-logo="https://cm4-production-assets.s3.amazonaws.com/1761774178787-20251029_223719.png" ,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaijan" tvg-id="(no tvg-id)" tvg-name="ITV" tvg-logo="https://itv.az/assets/images/itv-logo.png" ,ITV HD
 http://op9fqvuz.akciatv.ru/iptv/LC8RBR34PMDLY8/2195/index.m3u8
